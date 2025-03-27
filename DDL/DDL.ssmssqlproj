@@ -40,17 +40,17 @@
           <AssociatedConnUserName>curso</AssociatedConnUserName>
           <FullPath>02_create_table_vehiculos.sql</FullPath>
         </FileNode>
-        <FileNode Name="03_create_table_facturas.sql">
+        <FileNode Name="03_create_table_reparaciones.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName>curso</AssociatedConnUserName>
-          <FullPath>03_create_table_facturas.sql</FullPath>
+          <FullPath>03_create_table_reparaciones.sql</FullPath>
         </FileNode>
-        <FileNode Name="04_create_table_reparaciones.sql">
+        <FileNode Name="04_create_table_facturas.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName>curso</AssociatedConnUserName>
-          <FullPath>04_create_table_reparaciones.sql</FullPath>
+          <FullPath>04_create_table_facturas.sql</FullPath>
         </FileNode>
         <FileNode Name="05_create_table_facturareparacion.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
